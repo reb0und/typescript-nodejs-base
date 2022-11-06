@@ -13,3 +13,6 @@ node_modules
 # Yarn Integrity file
 yarn.lock
 yarn-error.log
+
+# Distribution files
+/dist

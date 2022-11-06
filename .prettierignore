@@ -1,0 +1,8 @@
+# Build directory
+dist/*
+
+# Module definitions
+**/*.d.ts
+
+# Jest config
+jest.config.ts

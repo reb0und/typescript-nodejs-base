@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# MacOS document store
+.DS_Store
+
+# Visual Studio Code configuration files
+/.vscode
+
+# node_modules directory
+node_modules
+
+# Yarn Integrity file
+yarn.lock
+yarn-error.log

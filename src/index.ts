@@ -1,1 +1,1 @@
-export const add = (a: number, b: number) => a + b;
+export const rand = () => Math.floor(Math.random() * 10);

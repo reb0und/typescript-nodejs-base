@@ -1,7 +1,7 @@
-import { add } from '../src/index';
+import { rand } from '../src/index';
 
-describe('add', () => {
-  it('adds two numbers', () => {
-    expect(add(1, 2)).toEqual(3);
+describe('random integer test', () => {
+  it('returns random ', () => {
+    expect(typeof rand()).toBe('number');
   });
 });
